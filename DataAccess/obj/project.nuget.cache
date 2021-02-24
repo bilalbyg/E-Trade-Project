@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBghUpF9OTeont34l7IqsAE7k4kkMxJ4Kwv7r8aWb31a8APPyGhSA7a0LboCyDzVvc0Pq6V068sODSUIzXCABQ==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Repository\\ETradeProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bilal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bilal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
