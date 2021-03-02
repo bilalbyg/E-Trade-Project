@@ -66,3 +66,8 @@ D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pd
 D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\Visual Studio Repository\ETradeProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
