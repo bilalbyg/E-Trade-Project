@@ -71,3 +71,4 @@ D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac
 D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Visual Studio Repository\ETradeProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -60,3 +60,10 @@ D:\Visual Studio Repository\ETradeProject\ConsoleUI\obj\Debug\netcoreapp3.1\Cons
 D:\Visual Studio Repository\ETradeProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
 D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Visual Studio Repository\ETradeProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
