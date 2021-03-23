@@ -6228,11 +6228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Repository\\ETradeProject\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Bilal\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Repository\\ETradeProject\\WebAPI\\obj\\",
+      "outputPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6250,17 +6250,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Visual Studio Repository\\ETradeProject\\Business\\Business.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Business\\Business.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Business\\Business.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Business\\Business.csproj"
             },
-            "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj"
             },
-            "D:\\Visual Studio Repository\\ETradeProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\DataAccess\\DataAccess.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj"
             }
           }
         }

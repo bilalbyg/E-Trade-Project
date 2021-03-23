@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/WqYbeLwNxFeNadtZN9udCOLCRPIn85gh+OWjcxhwmEPWhC2X4My7vq1z//q+kVF5kDHPghCM+rx7pZzTaUJQw==",
+  "dgSpecHash": "W+EAlXeLbk6Ck9+XSHk+hSsC7ZYm4qZC19zF9jKfjpP19tiptUWhwq+Qvk035VdxW1ICll9mNXHlR6CpvYmeZg==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Repository\\ETradeProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLUz8lafSHB7BHt0aMfYDq3xLtogSN6qd9Ik+onTZoVU8NjcjYGjr55AnpJCbt/Cu2ugaFbyHsFoqjMmBWkSjA==",
+  "dgSpecHash": "fD+EfKEtAGgWpk0KjDMfBAomCEWTtnLazEBf1bvEvzobN1qeX1pvYwodk0sBtA01aIvAdFaac2DBrgsgcdT4Rg==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Repository\\ETradeProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

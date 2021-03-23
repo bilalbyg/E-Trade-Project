@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2SNhr12/YJ3eMNW2PsJu72TtWKPSsWIzLPufiygFU3zLf/RtEcf50upSv4ZbXQIs3YHiKA243y/pbRy9f0QlA==",
+  "dgSpecHash": "piu5vcinDgbaX+6joolF3aZ27sS92KQ/pP1vyCXPgUzzxDnESE1cF2nE3pGxwuYpN09h/vFE1kT9KQAYklsrgA==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Bilal\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

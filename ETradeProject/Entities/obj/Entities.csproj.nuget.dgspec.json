@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj": {}
+    "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj": {
+    "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj",
+        "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Bilal\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Repository\\ETradeProject\\Core\\obj\\",
+        "outputPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,14 +98,14 @@
         }
       }
     },
-    "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj": {
+    "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Bilal\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\obj\\",
+        "outputPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj": {
-                "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Core\\Core.csproj"
+              "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj": {
+                "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Core\\Core.csproj"
               }
             }
           }

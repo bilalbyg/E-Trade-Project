@@ -6841,11 +6841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Repository\\ETradeProject\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Business\\Business.csproj",
+      "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Bilal\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Repository\\ETradeProject\\Business\\obj\\",
+      "outputPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6863,11 +6863,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Visual Studio Repository\\ETradeProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\DataAccess\\DataAccess.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Visual Studio Repository\\ETradeProject\\Entities\\Entities.csproj"
+            "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Git Repositories\\ETradeProject\\ETradeProject\\Entities\\Entities.csproj"
             }
           }
         }
